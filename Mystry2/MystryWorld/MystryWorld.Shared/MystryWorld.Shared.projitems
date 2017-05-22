@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>BB2911A2-6D45-44F2-880C-5F0293D55E86</SharedGUID>
+  </PropertyGroup>
+  <ItemGroup>
+	<Content Include="$(MSBuildThisFileDirectory)data.json" />
+	<Content Include="$(MSBuildThisFileDirectory)c2runtime.js" />
+	<Content Include="$(MSBuildThisFileDirectory)jquery-2.1.1.min.js" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackground.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackground2.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\l1background.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\hat-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\mouse-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\bottle-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\particles.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\particles2.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\particles3.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\particles4.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\diamondx25.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\diamondx50.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\gemstonex5.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\gemstonex1.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tilemap.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackground3.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\sprite-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\sprite2-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackground4.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\sprite3-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\star1-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\sprite6-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\sprite7-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\sprite8-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\levelinfo-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\nextlevel-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\replay-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\diamondx10.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\sprite11-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\diamondx5.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\gemstonex3.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\gemstonex9.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\play_now-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackground5.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\carrot-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\hotairballon-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\pineapple-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\saltbottle-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\singlebanana-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\sprite12-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)icon-16.png" />
+	<Content Include="$(MSBuildThisFileDirectory)icon-32.png" />
+	<Content Include="$(MSBuildThisFileDirectory)icon-114.png" />
+	<Content Include="$(MSBuildThisFileDirectory)icon-128.png" />
+	<Content Include="$(MSBuildThisFileDirectory)icon-256.png" />
+	<Content Include="$(MSBuildThisFileDirectory)loading-logo.png" />
+
+  </ItemGroup>
+</Project>
